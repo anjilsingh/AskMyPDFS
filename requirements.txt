@@ -6,10 +6,6 @@ PyPDF2
 chromadb
 faiss-cpu
 langchain-google-genai
-langchain 
-google-generativeai 
-streamlit 
-PyPDF2 
-reportlab 
-python-dotenv 
+reportlab
+
 
