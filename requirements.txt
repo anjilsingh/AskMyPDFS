@@ -14,3 +14,4 @@ PyPDF2
 reportlab 
 python-dotenv 
 faiss-cpu 
+faiss-cpu 
