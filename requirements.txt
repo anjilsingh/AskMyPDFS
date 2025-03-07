@@ -7,11 +7,9 @@ chromadb
 faiss-cpu
 langchain-google-genai
 langchain 
-faiss-cpu 
 google-generativeai 
 streamlit 
 PyPDF2 
 reportlab 
 python-dotenv 
-faiss-cpu 
-faiss-cpu 
+
