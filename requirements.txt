@@ -13,3 +13,4 @@ streamlit
 PyPDF2 
 reportlab 
 python-dotenv 
+faiss-cpu 
