@@ -1,6 +1,0 @@
-Q: File Oriented approach
-A: The provided text describes the file-oriented approach to information processing as a traditional method where each application has a separate master file and its own set of personal files.  The program is dependent on the files, and the files are dependent on the programs.  The disadvantages of this approach include data redundancy and inconsistency, difficulty in accessing data, data isolation, integrity problems, atomicity issues, problems with concurrent access, and security problems.
-
-Q: File Oriented approach
-A: The provided text describes the file-oriented approach to information processing as having a separate master file and its own set of personal files for each application.  The programs are dependent on the files, and the files are dependent on the programs.  The disadvantages of this approach include data redundancy and inconsistency, difficulty in accessing data, data isolation, integrity problems, atomicity issues, concurrent access problems, and security problems.
-
